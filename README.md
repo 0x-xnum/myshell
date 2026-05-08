@@ -1,6 +1,6 @@
 # mysh — A Unix Shell in C
 
-OS lab project. Custom shell written in C that handles builtins, external commands via `fork`/`exec`, command history, and a colored prompt.
+Custom shell written in C that handles builtins, external commands via `fork`/`exec`, command history, and a colored prompt.
 
 ---
 
@@ -96,6 +96,6 @@ The prompt shortens the home directory to `~` and colors the shell name green an
 
 ---
 
-## License
+## Academic Context
 
-MIT
+This project was developed as part of the Operating Systems course at Elsewedy University of Technology.
